@@ -47,8 +47,8 @@ const TextReveal2 = ({quote}) => {
 }
 
 
-const keywords = ["Masum", "productive."];
-const keywords2 =["Masum","supported"];
+const keywords = ["Rakib", "productive."];
+const keywords2 =["Rakib","supported"];
 const keywords3 =["detail","all","beyond"];
 
 const lines = sliceTextByKeywords(quote, keywords, keywords2, keywords3);
